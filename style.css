@@ -1,0 +1,14 @@
+
+    .zen{
+        text-align: center;
+ 
+    }
+    .sen{
+       display: flex;
+       justify-content: center;
+       text-align: center;
+       margin: 0 auto; 
+    }
+    .divs{
+        margin-top: 200px;
+    }
